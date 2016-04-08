@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Towers\Tower.cs">
+    <Files>
+      <File FileName="Assets\Towers\Bullet.cs" Line="64" Column="32" />
+      <File FileName="Assets\Game Manager\WaveManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Manager\TowerManager.cs" Line="291" Column="23" />
+      <File FileName="Assets\Game Manager\GameManager.cs" Line="66" Column="31" />
+      <File FileName="Assets\Map\Cells\Cell.cs" Line="1" Column="1" />
+      <File FileName="Assets\Map\Cells\EditorCell.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Manager\Singleton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Towers\Tower.cs" Line="60" Column="49" />
+      <File FileName="Assets\Map\Cells\SceneryCell.cs" Line="1" Column="1" />
+      <File FileName="Assets\Map\Map.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Manager\EditorManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Towers\TowerRangeTracker.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Mahmoud\Tower Defense\Assets\Game Manager\EditorManager.cs" line="56" />
+      <Breakpoint file="C:\Mahmoud\Tower Defense\Assets\Game Manager\EditorManager.cs" line="139" />
+      <Breakpoint file="C:\Mahmoud\Tower Defense\Assets\Game Manager\EditorManager.cs" line="174" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

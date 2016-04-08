@@ -1,0 +1,112 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 525M     (ID=0xdf5)
+    Vendor:   NVIDIA
+    VRAM:     977 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\user\Desktop\TowerOfDefense-CSharp\Tower Defense\Tower Defense\Build\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\user\Desktop\TowerOfDefense-CSharp\Tower Defense\Tower Defense\Build\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\TowerOfDefense-CSharp\Tower Defense\Tower Defense\Build\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\user\Desktop\TowerOfDefense-CSharp\Tower Defense\Tower Defense\Build\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\TowerOfDefense-CSharp\Tower Defense\Tower Defense\Build\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\user\Desktop\TowerOfDefense-CSharp\Tower Defense\Tower Defense\Build\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  1.280 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\user\Desktop\TowerOfDefense-CSharp\Tower Defense\Tower Defense\Build\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\user\Desktop\TowerOfDefense-CSharp\Tower Defense\Tower Defense\Build\Game_Data\Managed\System.dll (this message is harmless)
+[Singleton] Using instance already created: Global Scripts
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Map generated from editor
+Start Cell at : 0,9
+End Cell at : 11,6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Path generated: 
+[Cell: X=0, Y=9]
+[Cell: X=1, Y=9]
+[Cell: X=2, Y=9]
+[Cell: X=3, Y=9]
+[Cell: X=4, Y=9]
+[Cell: X=5, Y=9]
+[Cell: X=6, Y=9]
+[Cell: X=7, Y=9]
+[Cell: X=7, Y=8]
+[Cell: X=8, Y=8]
+[Cell: X=8, Y=7]
+[Cell: X=9, Y=7]
+[Cell: X=10, Y=7]
+[Cell: X=10, Y=6]
+[Cell: X=11, Y=6]
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Placed Tower at 2,10 cost was 10 player now has 40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Placed Tower at 2,8 cost was 15 player now has 25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Placed Tower at 0,8 cost was 12 player now has 13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Placed Tower at 6,8 cost was 10 player now has 82
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Upgrade tower: lvl:1->2 Cost:5 Player now has: 133
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Sold tower for 11 player now has 144
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Placed Tower at 2,8 cost was 15 player now has 129
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Placed Tower at 3,8 cost was 15 player now has 114
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Upgrade tower: lvl:1->2 Cost:7 Player now has: 107
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Upgrade tower: lvl:2->3 Cost:11 Player now has: 96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Upgrade tower: lvl:1->2 Cost:7 Player now has: 89
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Upgrade tower: lvl:2->3 Cost:11 Player now has: 78
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Upgrade tower: lvl:2->3 Cost:7 Player now has: 71
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Upgrade tower: lvl:3->4 Cost:11 Player now has: 60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Upgrade tower: lvl:4->5 Cost:16 Player now has: 62
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
