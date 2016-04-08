@@ -1,2 +1,2 @@
-# DoTA
-Defense of Towers: Aegis - video game project for ECSE 321 Fall 2015
+# Defense of Towers: Aegis (DoT:A)
+Video game project for McGill ECSE 321 Fall 2015
